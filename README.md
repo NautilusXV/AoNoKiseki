@@ -1,4 +1,4 @@
-# AoNoKiseki PPSSPP HD Texture Pack
+# Ao No Kiseki PPSSPP HD Texture Pack
 ![Imgur](https://i.imgur.com/8qzQIi6.png)
 
 This pack changes many textures (NOT ALL) that appear throughout the game. These textures were obtained/taken from the PC version of the game.
