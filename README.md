@@ -1,4 +1,6 @@
 # AoNoKiseki PPSSPP HD Texture Pack
+![Imgur](https://i.imgur.com/8qzQIi6.png)
+
 This pack changes many textures (NOT ALL) that appear throughout the game. These textures were obtained/taken from the PC version of the game.
 
 This will never be complete because there are way too many textures to replace. The "main" focus was to replace the location textures. But overall the game should look better.
