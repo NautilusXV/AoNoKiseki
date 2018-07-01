@@ -15,7 +15,7 @@ Translated Battle Menu(Mostly)
 
 Character Portaits(Not Complete)
 
-"Extra" section to be mostly in HD
+"Extra" section(Mostly complete)
 
 Translated Character Names for Camp Menu
 
@@ -27,3 +27,23 @@ Many textures of locations you visit in the game are mostly or partially in HD
 
 Misc Textures (effects, True Demon Earnest, minimap, things I haven't mentioned, etc)
 ```
+[Imgur Gallery](https://imgur.com/a/hNzzp)
+
+# Latest Version: Ver.2.3
+Download https://mega.nz/#!ckh3XRjL!8qI5YO-GRgIpmNfwVhtU3weIo373kT0XdrWkE1CKLiM
+
+
+## Installation
+Extract the "NPJH50473" folder to your "TEXTURES" folder. **ppsspp\memstick\PSP\TEXTURES**
+
+If the TEXTURES folder doesn't exist, create it.
+
+Start PPSSPP, then go to Settings/Tools/Developer tools, scroll down to texture replacement and make sure "replace textures" is CHECKED.
+
+For future updates, delete the old "NPJH50473" folder and replace with new one.
+
+
+## Notes
+I recommend using the latest PPSSPP builds https://buildbot.orphis.net/ppsspp/
+
+Also, you should change the emulator settings if you want.
