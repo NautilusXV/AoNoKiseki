@@ -31,8 +31,8 @@ Misc Textures (effects, True Demon Earnest, minimap, things I haven't mentioned,
 ```
 [Imgur Gallery](https://imgur.com/a/hNzzp)
 
-# Latest Version: Ver.2.3
-Download https://mega.nz/#!ckh3XRjL!8qI5YO-GRgIpmNfwVhtU3weIo373kT0XdrWkE1CKLiM
+# Latest Version: Ver. 2.3.4
+Download https://github.com/NautilusXV/AoNoKisekiPSP/releases
 
 
 ## Installation
