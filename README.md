@@ -49,3 +49,19 @@ For future updates, delete the old "NPJH50473" folder and replace with new one.
 I recommend using the latest PPSSPP builds https://buildbot.orphis.net/ppsspp/
 
 Also, you should change the emulator settings if you want.
+
+# Future Update
+
+### Texture Replacement for the following locations:
+
+```
+The Tower of Stargaze
+
+The Temple of Moon
+
+Merkabah Airship
+```
+
+At the moment, I'm just dumping the textures of the psp & pc versions. It's gonna be awhile before I actually start replacing stuff. I'll upload the "dumps" so you can see what they are and how different they look from each other.
+
+#### The PC version is just the better version and the one I'd rather spend my time messin' with. Mainly because it's a lot faster/easier to tinker with. So once I'm done with these, that's it. I won't even mess with the final dungeon and its extensions(Boss levels) <_<
